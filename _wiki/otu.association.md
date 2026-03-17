@@ -12,7 +12,7 @@ correlation coefficient for the otus in a shared/relabund file.
 The **otu.association** command reads a shared
 or relabund file.
 
-    mothur > otu.association(shared=final.an.0.03.subsample.0.03.pick.shared)
+    mothur > otu.association(shared= Ankita (2).shared)
 
 or
 
